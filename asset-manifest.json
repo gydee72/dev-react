@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dev-react/static/css/main.a4d46b34.chunk.css",
+    "main.js": "/dev-react/static/js/main.fbd9e3c8.chunk.js",
+    "main.js.map": "/dev-react/static/js/main.fbd9e3c8.chunk.js.map",
+    "runtime-main.js": "/dev-react/static/js/runtime-main.0d879d43.js",
+    "runtime-main.js.map": "/dev-react/static/js/runtime-main.0d879d43.js.map",
+    "static/js/2.4d58e113.chunk.js": "/dev-react/static/js/2.4d58e113.chunk.js",
+    "static/js/2.4d58e113.chunk.js.map": "/dev-react/static/js/2.4d58e113.chunk.js.map",
+    "index.html": "/dev-react/index.html",
+    "static/css/main.a4d46b34.chunk.css.map": "/dev-react/static/css/main.a4d46b34.chunk.css.map",
+    "static/js/2.4d58e113.chunk.js.LICENSE.txt": "/dev-react/static/js/2.4d58e113.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/dev-react/static/media/Questrial-Regular.96dd668f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d879d43.js",
+    "static/js/2.4d58e113.chunk.js",
+    "static/css/main.a4d46b34.chunk.css",
+    "static/js/main.fbd9e3c8.chunk.js"
+  ]
+}
